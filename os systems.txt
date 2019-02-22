@@ -1,0 +1,3 @@
+# Works on Windows 10 (only one tested)
+# Please contact me if you tested it somewhere and it worked
+# xd
